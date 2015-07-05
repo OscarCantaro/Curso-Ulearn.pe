@@ -7,4 +7,10 @@ https://github.com/OscarCantaro/Curso-Ulearn.pe.git
 
 ingresar a la carpeta clonada: cd Curso-Ulearn.pe
 
-pasar lista: git add .
+1 hacer un cambio en los archivos
+
+2 pasar lista: git add .
+
+3 avisar de los cambios:
+git commit -m "Se agrego inicio.txt primeros pasos"
+
