@@ -1,0 +1,10 @@
+git config --global user.name "OscarCantaro"
+
+git config --global user.mail "<oscar.cantaro@gmail.com>"
+
+https://github.com/OscarCantaro/Curso-Ulearn.pe.git
+
+
+ingresar a la carpeta clonada: cd Curso-Ulearn.pe
+
+pasar lista: git add .
