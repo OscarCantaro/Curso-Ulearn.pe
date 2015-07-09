@@ -14,3 +14,12 @@ ingresar a la carpeta clonada: cd Curso-Ulearn.pe
 3 avisar de los cambios:
 git commit -m "Se agrego inicio.txt primeros pasos"
 
+
+subir
+indicamos la ruta del master 
+
+git push https://github.com/OscarCantaro/Curso-Ulearn.pe.git
+
+
+
+
