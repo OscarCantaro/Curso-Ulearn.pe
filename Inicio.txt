@@ -21,5 +21,10 @@ indicamos la ruta del master
 git push https://github.com/OscarCantaro/Curso-Ulearn.pe.git
 
 
+pedira usuario:
+oscar.cantaro@outlook.com
 
+ y pasword:
+
+Ari..84....15_a
 
